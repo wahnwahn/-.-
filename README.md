@@ -204,8 +204,20 @@ $(function() {
 });
 
 ## 4. ติดตั้ง MetaMask
+
 ## 5. Run Program
-     run Backend โดยใช้คำสั่ง
-npm run dev
-    จากนั้นเปิด Firefox ที่ URL ดังนี้ http://localhost:3000
+run Backend โดยใช้คำสั่ง
+
+    npm run dev
+ 
+จากนั้นเปิด Firefox ที่ URL ดังนี้ http://localhost:3000
+![Front](https://user-images.githubusercontent.com/75904103/104817482-1bb0c980-5854-11eb-9d60-1511f2a77699.PNG)
+    
+ระบบจะเชื่อมต่อไปยัง Wallet
+![CF](https://user-images.githubusercontent.com/75904103/104817477-1784ac00-5854-11eb-8b8b-18cecaf56cda.PNG)
+    
 โปรดสังเกตุ ก่อนที่จะมีการอุปการะ ปุ่มด้านล่างจะขึ้นว่า "Adopt" เป็นตัวหนังสือสีเข้มอยู่ เมื่อมีคนกด Adopt ตัวหนังสือจะจางลง
+![Success](https://user-images.githubusercontent.com/75904103/104817486-20757d80-5854-11eb-963f-7433743e1fbf.PNG)
+
+ภาพแสดงธุรกรรมที่เกิดขึ้น
+![TR](https://user-images.githubusercontent.com/75904103/104817476-15bae880-5854-11eb-8351-c80688e799b5.PNG)
